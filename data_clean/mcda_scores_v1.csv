@@ -1,0 +1,13 @@
+format_class,scenario,total_score,component_scores_json
+batch,Speed-first,0.671884,"{""yield_score"": 0.9844179651695693, ""time_score"": 0.8125, ""complexity_score"": 1.0, ""scalability_score"": 0.0, ""automation_score"": 0.0}"
+dialysis_cecf,Speed-first,0.375,"{""yield_score"": 1.0, ""time_score"": 0.0, ""complexity_score"": 0.5, ""scalability_score"": 1.0, ""automation_score"": 0.0}"
+microfluidic,Speed-first,0.527125,"{""yield_score"": 0.0, ""time_score"": 0.9428125, ""complexity_score"": 0.0, ""scalability_score"": 0.0, ""automation_score"": 1.0}"
+hydrogel_compartmentalized,Speed-first,0.574129,"{""yield_score"": 0.2456461961503208, ""time_score"": 1.0, ""complexity_score"": 0.5, ""scalability_score"": 0.5, ""automation_score"": 0.0}"
+batch,Yield-first,0.664863,"{""yield_score"": 0.9844179651695693, ""time_score"": 0.8125, ""complexity_score"": 1.0, ""scalability_score"": 0.0, ""automation_score"": 0.0}"
+dialysis_cecf,Yield-first,0.65,"{""yield_score"": 1.0, ""time_score"": 0.0, ""complexity_score"": 0.5, ""scalability_score"": 1.0, ""automation_score"": 0.0}"
+microfluidic,Yield-first,0.291422,"{""yield_score"": 0.0, ""time_score"": 0.9428125, ""complexity_score"": 0.0, ""scalability_score"": 0.0, ""automation_score"": 1.0}"
+hydrogel_compartmentalized,Yield-first,0.385541,"{""yield_score"": 0.2456461961503208, ""time_score"": 1.0, ""complexity_score"": 0.5, ""scalability_score"": 0.5, ""automation_score"": 0.0}"
+batch,Low-infra-first,0.710163,"{""yield_score"": 0.9844179651695693, ""time_score"": 0.8125, ""complexity_score"": 1.0, ""scalability_score"": 0.0, ""automation_score"": 0.0}"
+dialysis_cecf,Low-infra-first,0.45,"{""yield_score"": 1.0, ""time_score"": 0.0, ""complexity_score"": 0.5, ""scalability_score"": 1.0, ""automation_score"": 0.0}"
+microfluidic,Low-infra-first,0.338562,"{""yield_score"": 0.0, ""time_score"": 0.9428125, ""complexity_score"": 0.0, ""scalability_score"": 0.0, ""automation_score"": 1.0}"
+hydrogel_compartmentalized,Low-infra-first,0.486847,"{""yield_score"": 0.2456461961503208, ""time_score"": 1.0, ""complexity_score"": 0.5, ""scalability_score"": 0.5, ""automation_score"": 0.0}"

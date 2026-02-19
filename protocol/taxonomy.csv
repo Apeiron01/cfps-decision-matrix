@@ -1,0 +1,9 @@
+format_class,definition,typical_setup,pros,cons,complexity_proxy,scalability_proxy,automation_proxy
+batch,Closed batch reaction in a tube or well plate,Microliter to milliliter batch with manual handling,Simple low cost and fast setup,Limited volume and batch variability,1,2,2
+dialysis_cecf,Continuous exchange cell-free with dialysis,Membrane-separated reaction and feed reservoirs,Improved longevity and yield,More parts and setup time,3,4,2
+continuous_flow,Continuous flow reactor with steady-state feed,Channel or tubing with continuous input/output,Potential for continuous production and control,Requires pumps and stable operation,4,4,3
+microfluidic,Microfluidic chip-based CFPS,PDMS or glass chip with microchannels,Low reagent use and high control,Fabrication and handling complexity,5,2,3
+droplet,Droplet or emulsion compartmentalized CFPS,Water-in-oil droplets or microdroplets,High throughput and compartmentalization,Emulsion handling and analysis challenges,4,2,3
+hydrogel_compartmentalized,Hydrogel or compartmentalized matrices,Hydrogel beads or compartments,Stability and portability,Diffusion limits and prep complexity,3,3,2
+automated_ht,Automated high-throughput CFPS,Robotic liquid handling with plates,Scalable screening and reproducibility,Equipment cost and setup,3,5,5
+others,Other or hybrid formats not covered,Varies by study,Flexible categorization,Heterogeneous methods,3,3,3

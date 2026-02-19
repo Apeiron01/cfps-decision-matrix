@@ -1,0 +1,8 @@
+stage,count
+records_identified,22
+duplicates_removed,2
+records_screened,20
+records_excluded,4
+full_text_assessed,16
+full_text_excluded,1
+studies_included,15
