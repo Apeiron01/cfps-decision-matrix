@@ -138,7 +138,7 @@ No new biological materials were generated in this literature-based study. The f
 
 ## Data Availability Statement
 
-All data and code underlying this study are available in the project repository and supplementary files. Core files include `data_clean/cfps_dataset_v1.csv`, `data_clean/mcda_scores_v1.csv`, `output/table1_cfps_results.csv`, `output/table2_mcda_weights.csv`, `output/table3_mcda_scores.csv`, and `output/table4_taxonomy_proxies.csv`. Supplementary figures are provided in `figures/`. Public repository URL: [insert-public-repository-url-at-submission].
+All data and code underlying this study are available in the project repository and supplementary files. Core files include `data_clean/cfps_dataset_v1.csv`, `data_clean/mcda_scores_v1.csv`, `output/table1_cfps_results.csv`, `output/table2_mcda_weights.csv`, `output/table3_mcda_scores.csv`, and `output/table4_taxonomy_proxies.csv`. Supplementary figures are provided in `figures/`. Public repository URL: https://github.com/Apeiron01/cfps-decision-matrix.
 
 ## Acknowledgements
 
