@@ -142,7 +142,7 @@ All data and code underlying this study are available in the project repository 
 
 ## Acknowledgements
 
-Generative AI was used for language editing support under direct author supervision. The author reviewed and validated all scientific content, interpretation, and conclusions.
+None.
 
 ## Funding
 
